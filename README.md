@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Login Project.
 - 🌱 I’m currently learning Spring Boot and Microservices
 - 📫 How to reach me: namdev15swatantra@gmail.com
+-  Access my LinkedIn Profile: https://www.linkedin.com/in/swatantra-namdeo-277766ba/ 
 
 <!--
 **swa1508/swa1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
