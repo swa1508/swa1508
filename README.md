@@ -1,4 +1,4 @@
-### Hi there Swatantra Namdeo 👋
+### Hi I am Swatantra Namdeo (Senior Software Engineer) 👋
 - 🔭 I’m currently working on Login Project.
 - 🌱 I’m currently learning Spring Boot and Microservices
 - 📫 How to reach me: namdev15swatantra@gmail.com
